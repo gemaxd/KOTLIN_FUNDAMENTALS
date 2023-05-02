@@ -13,8 +13,4 @@ class TheSingleton private constructor() {
             return instance!!
         }
     }
-
-    fun doSomething() {
-        println("Singleton instance is doing something!")
-    }
 }

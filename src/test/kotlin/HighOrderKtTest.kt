@@ -2,7 +2,7 @@ import functions.highOrderFunction.chooseOperation
 import functions.highOrderFunction.doOperation
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
-import utils.Operation
+import functions.highOrderFunction.utils.Operation
 
 class HighOrderKtTest {
 
