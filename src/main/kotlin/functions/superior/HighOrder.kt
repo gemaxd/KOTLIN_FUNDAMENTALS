@@ -1,6 +1,6 @@
-package functions.highOrderFunction
+package functions.superior
 
-import functions.highOrderFunction.utils.Operation
+import functions.superior.utils.Operation
 
 fun sumOperation(first: Double, second: Double): Double{
     return first + second

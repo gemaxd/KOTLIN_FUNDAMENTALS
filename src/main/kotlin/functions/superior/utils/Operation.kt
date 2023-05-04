@@ -1,4 +1,4 @@
-package functions.highOrderFunction.utils
+package functions.superior.utils
 
 enum class Operation {
     ADDITION,

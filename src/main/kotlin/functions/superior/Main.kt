@@ -1,6 +1,6 @@
-package functions.highOrderFunction
+package functions.superior
 
-import functions.highOrderFunction.utils.Operation
+import functions.superior.utils.Operation
 
 fun main() {
     println(doOperation(2.0, 3.0, chooseOperation(Operation.ADDITION)))
