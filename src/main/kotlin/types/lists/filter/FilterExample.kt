@@ -1,6 +1,6 @@
-package lists.filter
+package types.lists.filter
 
-import lists.numbersDummyList
+import types.lists.numbersDummyList
 
 fun main() {
     val filteredList = numbersDummyList.filter { it % 2 == 0 }

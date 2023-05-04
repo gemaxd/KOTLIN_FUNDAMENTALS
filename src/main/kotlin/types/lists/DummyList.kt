@@ -1,6 +1,6 @@
-package lists
+package types.lists
 
-import lists.model.Person
+import types.lists.model.Person
 
 val numbersDummyList = listOf(1, 2, 3, 4, 5)
 

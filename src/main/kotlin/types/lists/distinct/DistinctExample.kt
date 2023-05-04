@@ -1,6 +1,6 @@
-package lists.distinct
+package types.lists.distinct
 
-import lists.repeatingNumbersDummyList
+import types.lists.repeatingNumbersDummyList
 
 fun main() {
     val distinctList = repeatingNumbersDummyList.distinct()

@@ -1,6 +1,6 @@
-package lists.partition
+package types.lists.partition
 
-import lists.numbersDummyList
+import types.lists.numbersDummyList
 
 fun main() {
     val (even, odd) = numbersDummyList.partition { it % 2 == 0 }

@@ -1,6 +1,6 @@
-package lists.flatmap
+package types.lists.flatmap
 
-import lists.phraseDummyList
+import types.lists.phraseDummyList
 
 fun main() {
     val flattedMapList = phraseDummyList.flatMap { it.split(" ") }

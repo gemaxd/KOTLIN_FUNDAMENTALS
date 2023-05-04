@@ -1,6 +1,6 @@
-package lists.groupby
+package types.lists.groupby
 
-import lists.peopleDummyList
+import types.lists.peopleDummyList
 
 fun main() {
     val peopleByAge = peopleDummyList.groupBy { it.age }

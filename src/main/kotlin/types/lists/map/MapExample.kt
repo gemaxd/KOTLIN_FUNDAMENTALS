@@ -1,6 +1,6 @@
-package lists.map
+package types.lists.map
 
-import lists.numbersDummyList
+import types.lists.numbersDummyList
 
 fun main() {
     val mappedList = numbersDummyList.map { it * it }

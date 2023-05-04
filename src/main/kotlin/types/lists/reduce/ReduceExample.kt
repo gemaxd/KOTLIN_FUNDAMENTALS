@@ -1,6 +1,6 @@
-package lists.reduce
+package types.lists.reduce
 
-import lists.numbersDummyList
+import types.lists.numbersDummyList
 
 fun main() {
     sumByReduce()

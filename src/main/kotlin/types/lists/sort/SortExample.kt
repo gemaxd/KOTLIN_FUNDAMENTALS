@@ -1,8 +1,8 @@
-package lists.sort
+package types.lists.sort
 
-import lists.fruitsDummyList
-import lists.peopleDummyList
-import lists.shuffledNumbersDummyList
+import types.lists.fruitsDummyList
+import types.lists.peopleDummyList
+import types.lists.shuffledNumbersDummyList
 
 fun main() {
     sortedNumbers()

@@ -1,7 +1,7 @@
-package lists.associate
+package types.lists.associate
 
-import lists.fruitsDummyList
-import lists.peopleDummyList
+import types.lists.fruitsDummyList
+import types.lists.peopleDummyList
 
 fun main() {
     associateWith()

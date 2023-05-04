@@ -1,7 +1,7 @@
-package lists.zip
+package types.lists.zip
 
-import lists.fruitsDummyList
-import lists.numbersDummyList
+import types.lists.fruitsDummyList
+import types.lists.numbersDummyList
 
 fun main() {
     val zippedList = fruitsDummyList.zip(numbersDummyList)
